@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,price
+1,101,Smartphone,2,500
+2,102,Laptop,1,1200
+3,103,Tablet,3,300
+4,104,Smartwatch,2,200
+5,105,Headphones,5,50
+6,106,Smartphone,1,500
+7,107,Keyboard,4,40
+8,108,Monitor,2,300
+9,109,Laptop,1,1200
+10,110,Mouse,3,25
